@@ -32,4 +32,4 @@ class Stack:
             return False
 
     def search(self, target):
-        if len(self.items)
+        pass
